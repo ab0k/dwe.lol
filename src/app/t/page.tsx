@@ -1,6 +1,6 @@
 import { ProfileCard } from "@/components/profile-card";
 
-export default function Home() {
+export default function T() {
   return (
     <div
       className="relative flex items-center justify-center min-h-screen bg-cover bg-center bg-no-repeat"
